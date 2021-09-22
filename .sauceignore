@@ -10,5 +10,6 @@
 .gitlab-ci.yml
 .npmrc
 *.gif
+.testcaferc.json
 # Remove this to have node_modules uploaded with code
 node_modules/
